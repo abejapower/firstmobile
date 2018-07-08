@@ -1,0 +1,29 @@
+#paris{
+    width: 100%;
+    
+}
+
+#test{
+    font-size: 1.5em;    
+}
+#turist1{
+    margin-bottom: 10%;
+    width: 98%;
+}
+#turist2{
+    margin-bottom: 10%;
+    width: 98%;
+}
+#turist3{
+    margin-bottom: 10%;
+    width: 98%;
+    
+}
+.info{
+    background-color: #fa8071;
+    padding: 10%;
+}
+@media(min-width: 768px){ 
+    .menu{
+        width: 20vw; 
+    }
